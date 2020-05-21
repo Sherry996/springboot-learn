@@ -1,0 +1,12 @@
+https://blog.csdn.net/weixin_41515615/article/details/81349688  //centos7安装docker及基础使用
+https://blog.csdn.net/jinking01/article/details/82490688 //ubantu安装docker
+
+https://www.cnblogs.com/qgc1995/archive/2018/08/29/9553572.html  //centos7安装docker-ce
+
+https://www.rancher.cn/     //rancher中文网站
+
+docker search [名称]
+docker pull [拉取某个镜像名称]
+docker rmi -f [某个镜像名或id]
+
+docker run -d --name=rancher --restart=always -p 9090:8080 rancher/server

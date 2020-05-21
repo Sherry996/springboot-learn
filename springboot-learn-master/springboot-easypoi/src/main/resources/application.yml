@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://49.234.116.22:3306/springboot-easypoi
+    username: root
+    password: Root123.
+    hikari:
+      maximum-pool-size: 30
+      minimum-idle: 10
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  main:
+    allow-bean-definition-overriding: true
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true

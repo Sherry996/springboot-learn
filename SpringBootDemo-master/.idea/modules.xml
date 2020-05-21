@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-aop/spring-boot-aop.iml" filepath="$PROJECT_DIR$/spring-boot-aop/spring-boot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-log/spring-boot-log.iml" filepath="$PROJECT_DIR$/spring-boot-log/spring-boot-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-log4j/spring-boot-log4j.iml" filepath="$PROJECT_DIR$/spring-boot-log4j/spring-boot-log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-logback/spring-boot-logback.iml" filepath="$PROJECT_DIR$/spring-boot-logback/spring-boot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" filepath="$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scheduled/spring-boot-scheduled.iml" filepath="$PROJECT_DIR$/spring-boot-scheduled/spring-boot-scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-swagger2/spring-boot-swagger2.iml" filepath="$PROJECT_DIR$/spring-boot-swagger2/spring-boot-swagger2.iml" />
+    </modules>
+  </component>
+</project>

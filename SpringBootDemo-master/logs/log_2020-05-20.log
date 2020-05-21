@@ -1,0 +1,24 @@
+2020-05-20 19:38:19.605 [main] INFO  cn.wbnull.springbootdemo.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-BT0LC5H with PID 5364 (E:\idea2018\workspace-order\SpringBootDemo-master\spring-boot-logback\target\classes started by 智哥 in E:\idea2018\workspace-order\SpringBootDemo-master) 
+2020-05-20 19:38:19.609 [main] INFO  cn.wbnull.springbootdemo.SpringBootDemoApplication - No active profile set, falling back to default profiles: default 
+2020-05-20 19:38:21.154 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http) 
+2020-05-20 19:38:21.163 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"] 
+2020-05-20 19:38:21.171 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-05-20 19:38:21.171 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.13 
+2020-05-20 19:38:21.176 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\JDK\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\JDK\bin;E:\JDK\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;E:\node.js\;E:\git\git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;E:\node.js\node_modules;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\智哥\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\智哥\AppData\Local\Programs\Python\Python37\;E:\新建文件夹\Scripts\;E:\新建文件夹\;C:\Users\智哥\AppData\Local\Microsoft\WindowsApps;C:\Users\智哥\AppData\Roaming\npm;E:\vscode\bin;.] 
+2020-05-20 19:38:21.230 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springbootdemo] - Initializing Spring embedded WebApplicationContext 
+2020-05-20 19:38:21.231 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1464 ms 
+2020-05-20 19:38:21.371 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-05-20 19:38:21.487 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"] 
+2020-05-20 19:38:21.495 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read 
+2020-05-20 19:38:21.509 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/springbootdemo' 
+2020-05-20 19:38:21.511 [main] INFO  cn.wbnull.springbootdemo.SpringBootDemoApplication - Started SpringBootDemoApplication in 2.645 seconds (JVM running for 4.177) 
+2020-05-20 19:38:33.637 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springbootdemo] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-05-20 19:38:33.637 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-05-20 19:38:33.643 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms 
+2020-05-20 19:38:33.660 [http-nio-8090-exec-1] INFO  cn.wbnull.springbootdemo.util.LoggerUtils - Hello World 
+2020-05-20 19:38:33.660 [http-nio-8090-exec-1] INFO  cn.wbnull.springbootdemo.util.LoggerUtils - 
+终端：127.0.0.1
+位置：前台请求信息
+接口：/gateway
+参数：Hello World
+ 
